@@ -34,7 +34,7 @@ This README will walk you through the steps for getting the Orders web applicati
 
 ## Requirements <a name="requirements"></a>
 
-This sample application, no matter which API project you target, will requires the following to be installed/enabled on your machine:
+This sample application requires the following to be installed/enabled on your machine:
 
 * [Node.js (v. 12+)](https://nodejs.org/docs/latest-v12.x/api/index.html)
 * [NPM (v. 6+)](https://docs.npmjs.com/)
@@ -51,7 +51,7 @@ If you don't have a MariaDB database up and running you can find more informatio
 Download this code directly or use [git](git-scm.org) (through CLI or a client) to retrieve the code using `git clone`:
 
 ```
-$ git clone https://github.com/mariadb-corporation/orders-app-nodejs.git
+$ git clone https://github.com/mariadb-developers/orders-app-nodejs.git
 ```
 
 ## 3.) Create the database and table  <a name="schema"></a>
